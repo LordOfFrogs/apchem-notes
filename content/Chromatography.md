@@ -6,7 +6,7 @@ Measures [[Polarity]]
 Retention factor: $R_f=$Distance traveled by [[Mixtures#Solute|solute]] / distance traveled by [[Mixtures#Solvent|solvent]] from origin
 Mobile phase - liquid
 Stationary phase - gel
-![[Thin-layer-chromatography.webp]]
+![[Thin-layer-chromatography.webp|600]]
 
 ## Procedure
 Put substance in very [[Polarity|polar]] silica gel
