@@ -16,3 +16,4 @@ Trigonal planar - 3 clouds spaced equally apart on a plane (120°∠s)
 Tetrahedral - 4 [[Bonds]] - 109.5°
 Trigonal pyramidal - 3 clouds, 1 lone pair - 107°
 Trigonal bipyramidal - 5 [[Bonds]] - 120°, 90°
+![[phpwR2zmg.png|600]]
