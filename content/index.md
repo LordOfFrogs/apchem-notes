@@ -1,2 +1,3 @@
 # Welcome
-This is my collection of notes from AP Chemistry. I hope they can be helpful!
+This is my collection of notes from AP Chemistry.
+Use the sidebar to find notes.
